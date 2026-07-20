@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rosie 👋
 
-<!--
-**rosieess/rosieess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Warwick.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Engineering
+- Algorithms & Data Structures
+- Quantitative Finance
+- Distributed Systems
+
+## Currently
+
+- Practising LeetCode/Codility
+- Building a Java Limit Order Book
+- Learning C++
+
+## Tech
+
+Java • Python • C# • Flutter • FastAPI • SQL • Git
+
+## Featured Projects
+
+🎮 Echo Chamber
+💪 Fitness App (Flutter/FastAPI)
+📚 Study Timer
