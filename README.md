@@ -5,9 +5,8 @@ Computer Science student at the University of Warwick.
 ## Interests
 
 - Software Engineering
-- Algorithms & Data Structures
 - Quantitative Finance
-- Distributed Systems
+- FinTech
 
 ## Currently
 
@@ -17,10 +16,10 @@ Computer Science student at the University of Warwick.
 
 ## Tech
 
-Java • Python • C# • Flutter • FastAPI • SQL • Git
+Java • Python • C# • SQL • Git
 
 ## Featured Projects
 
-🎮 Echo Chamber
+🎮 Echo Chamber (C#/Unity)
 💪 Fitness App (Flutter/FastAPI)
 📚 Study Timer
